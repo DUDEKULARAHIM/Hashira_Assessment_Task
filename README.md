@@ -1,7 +1,7 @@
 
 # 🔐 Hashira problem statement task completed.
 
-# 🔐 Shamir's Secret Sharing - Secret Recovery Tool
+#  Shamir's Secret Sharing - Secret Recovery Tool
 
 This project is a **Node.js implementation** of a simplified version of **Shamir's Secret Sharing** algorithm. It reconstructs the secret (the constant term `c` in the polynomial) from encoded shares using **Lagrange Interpolation**.
 
